@@ -2,7 +2,7 @@
 <h3 align="center">Systems Engineer · Software Developer · Data Analyst · Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/apjosequinterocortes">
+  <a href="https://github.com/JoseQuinteroDev">
     <img src="https://img.shields.io/badge/GitHub-JoseQuinteroDev-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/jose-quintero-cortes/">
