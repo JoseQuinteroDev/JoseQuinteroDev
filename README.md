@@ -172,7 +172,7 @@ I want to build systems that are not only functional, but also reliable, maintai
 
 ## 🤝 Contact
 
-- GitHub: [@apjosequinterocortes](https://github.com/apjosequinterocortes)
+- GitHub: [@JoseQuinteroDev](https://github.com/JoseQuinteroDev)
 - LinkedIn: [jose-quintero-cortes](https://www.linkedin.com/in/jose-quintero-cortes/)
 - Email: [apjosequinterocortes@gmail.com](mailto:apjosequinterocortes@gmail.com)
 
