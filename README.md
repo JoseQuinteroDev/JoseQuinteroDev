@@ -1,183 +1,509 @@
-<h1 align="center">Hi, I'm José Antonio Quintero Cortés 👋</h1>
-<h3 align="center">Systems Engineer · Software Developer · Data Analyst · Cybersecurity Enthusiast</h3>
+# Hi, I'm José Antonio Quintero Cortés 👋
 
-<p align="center">
-  <a href="https://github.com/JoseQuinteroDev">
-    <img src="https://img.shields.io/badge/GitHub-JoseQuinteroDev-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/jose-quintero-cortes/">
-    <img src="https://img.shields.io/badge/LinkedIn-jose--quintero--cortes-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:apjosequinterocortes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Cybersecurity Analyst · Blue Team · Systems Engineer
+
+**SOC Operations · Incident Response · Threat Hunting · Detection Engineering · Windows Security**
+
+[![GitHub](https://img.shields.io/badge/GitHub-JoseQuinteroDev-181717?style=for-the-badge\&logo=github)](https://github.com/JoseQuinteroDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jose--quintero--cortes-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jose-quintero-cortes/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:apjosequinterocortes@gmail.com)
 
 ---
 
-## 🚀 About Me
+## 🛡️ About Me
 
-I am a **Systems Engineer, Software Developer and Data Analyst** with a strong interest in **cybersecurity, automation, data engineering, artificial intelligence and business systems**.
+I am a **Cybersecurity and Systems Engineering professional** focused on defensive security, security operations and Windows infrastructure.
 
-My profile combines several areas of IT: systems administration, backend development, SQL/database work, internal business tools, data analysis, automation and cybersecurity learning from a practical Blue Team perspective.
+My background combines **systems administration, cybersecurity, software development, networking, databases, automation and data analysis**, allowing me to approach security incidents not only from an alerting perspective, but also with a solid understanding of the underlying infrastructure.
 
-I like building useful technical solutions that connect **software, infrastructure, data, automation and security**.
+My current technical focus is **Blue Team / SOC operations**, particularly:
 
----
+* Security monitoring and alert investigation
+* Incident Response and DFIR
+* Threat Hunting
+* Detection Engineering
+* Windows and Active Directory security
+* SIEM operations and log analysis
+* Endpoint security
+* Security automation with PowerShell and Python
 
-## 🧭 Professional Focus
-
-### 🖥️ Systems Engineering
-
-I work with IT systems, internal infrastructure, Windows environments, servers, SQL Server, IIS, backups, shared resources, troubleshooting and operational support.
-
-As part of my growth as a **Systems Engineer**, I am also professionally focused on improving my quality and technical depth as a **Blue Team / Cyber Defense profile**. I am actively strengthening my knowledge in networking, Windows security, logs, incident triage, defensive monitoring and cybersecurity fundamentals, with the goal of obtaining the corresponding professional certifications over time.
-
-### 💻 Software Development
-
-I develop and maintain internal tools, backend logic, APIs, PHP legacy applications, Java/Spring Boot projects, Python scripts and database-driven solutions.
-
-### 📊 Data Analysis
-
-I work with SQL, reporting logic, data validation, reconciliation processes, business metrics and analytical workflows. I enjoy transforming raw data into useful information for decision-making.
-
-### 🤖 Quant, MQL5 & AI Trading Projects
-
-I have personal and technical projects related to **MQL5, algorithmic trading, backtesting, indicators, risk analysis, neural networks and AI-assisted trading systems**.
-
-This area allows me to combine programming, data analysis, statistics, automation and artificial intelligence applied to financial markets.
-
-### 🔐 Cybersecurity / Blue Team
-
-I am building a defensive cybersecurity profile focused on practical Blue Team skills: logs, detection logic, Windows internals, networking, SIEM concepts, triage, false positives, incident response basics and security hardening.
+I enjoy understanding how systems behave, identifying anomalous activity and translating technical findings into **actionable detections, investigations and defensive improvements**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔐 Cybersecurity & Blue Team
 
-### Languages & Development
+My defensive security work is centered around **practical investigation, detection and response workflows** rather than purely theoretical exercises.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MQL5](https://img.shields.io/badge/MQL5-0057B8?style=flat-square&logo=metatrader&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Security Operations
 
-### Backend, Databases & Data
+* Alert triage and investigation
+* Log analysis and event correlation
+* False-positive analysis
+* Incident classification and escalation
+* IOC analysis
+* Timeline reconstruction
+* Security documentation and case reporting
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+### Incident Response & DFIR
 
-### Systems & Security
+* Windows endpoint triage
+* Incident lifecycle using **PICERL**
+* Evidence collection and analysis
+* Containment and eradication
+* Persistence investigation
+* Malware and suspicious PowerShell analysis
+* Post-incident lessons learned
 
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue_Team-1f6feb?style=flat-square)
+### Threat Hunting
 
----
+* Hypothesis-driven hunting
+* Windows Event Logs
+* Sysmon telemetry
+* Microsoft Defender events
+* Active Directory / Kerberos activity
+* PowerShell Script Block Logging
+* Known-good baseline analysis
+* MITRE ATT&CK-based hunting methodology
 
-## 📌 Main Areas
+### Detection Engineering
 
-| Area | Focus |
-|---|---|
-| **Systems Engineering** | Internal infrastructure, Windows environments, IIS, SQL Server, backups, monitoring and troubleshooting. |
-| **Software Development** | Backend development, PHP, Java/Spring Boot, Python scripting, APIs and internal tools. |
-| **Data Analysis** | SQL, reporting, Power BI logic, business metrics, data validation and reconciliation processes. |
-| **Quant & AI Trading** | MQL5, Expert Advisors, indicators, backtesting, risk metrics, neural networks and AI-based experiments. |
-| **Cybersecurity / Blue Team** | Networking, Windows logs, SIEM concepts, detection logic, triage, hardening and incident response basics. |
-
----
-
-## 🔐 Cybersecurity Direction
-
-My cybersecurity path is focused on becoming a stronger **Blue Team / Cyber Defense** profile.
-
-I am especially interested in:
-
-- Windows security and Event Logs
-- Networking and TCP/IP fundamentals
-- Active Directory basics
-- PowerShell for administration and security
-- SIEM concepts and detection logic
-- Incident triage and investigation workflows
-- False positive reduction and alert analysis
-- Endpoint security, antivirus and EDR concepts
-- Security hardening and defensive documentation
-
-My goal is to progressively build a solid cybersecurity foundation and support it with practical labs, technical projects and professional certifications.
+* Sigma rules
+* KQL
+* Wazuh detection rules
+* MITRE ATT&CK mapping
+* Detection validation through controlled simulations
+* Detection gap analysis
+* SIEM rule tuning
+* False-positive reduction
 
 ---
 
-## 🧪 Projects & Portfolio Ideas
+# 🧪 Featured Cybersecurity Projects
 
-### 1. Blue Team / Cyber Defense Notes
+## 🛡️ SOC Blue Team Home Lab
 
-A structured repository for my cybersecurity learning path, focused on defensive security and SOC fundamentals.
+### [Window-Server-HomeLab](https://github.com/JoseQuinteroDev/Window-Server-HomeLab)
 
-**Topics:** networking, Windows logs, Active Directory basics, PowerShell, SIEM concepts, alert triage, false positives, detection rules and incident response.
+A complete isolated SOC laboratory built around **Windows Server, Active Directory, Wazuh and Sysmon**.
 
----
+The environment includes:
 
-### 2. Systems Engineering & Automation Toolkit
+* Windows Server 2025 Domain Controller
+* Active Directory
+* DNS
+* Group Policy
+* Windows 11 domain endpoint
+* Wazuh SIEM
+* Sysmon telemetry
+* Microsoft Defender integration
+* Advanced Windows auditing
+* PowerShell automation
+* Detection Engineering
+* Threat Hunting
+* Incident Response
+* Purple Team exercises
+* Threat Intelligence
+* SOC automation and playbooks
+* Security metrics
+* MITRE ATT&CK coverage analysis
 
-Scripts, notes and documentation related to internal IT operations and system administration.
+The lab generates real telemetry and is used to simulate controlled adversary techniques and validate defensive detections.
 
-**Topics:** Windows environments, PowerShell, backups, SQL Server maintenance, IIS diagnostics, shared resources, monitoring and troubleshooting.
+### Key areas demonstrated
 
----
-
-### 3. Data Analysis & SQL Projects
-
-Repositories focused on data validation, reconciliation, reporting logic and business analysis.
-
-**Topics:** SQL Server, PostgreSQL, Python, Pandas, Power BI logic, data quality checks, business metrics and reporting endpoints.
-
----
-
-### 4. MQL5, Quant & AI Trading Projects
-
-Algorithmic trading projects focused on strategy development, data analysis, backtesting and artificial intelligence experimentation.
-
-**Topics:** MQL5, MetaTrader 5, Expert Advisors, indicators, neural networks, trading datasets, backtesting, risk analysis and quantitative research.
-
----
-
-### 5. Backend Development Projects
-
-Backend applications and APIs built with modern technologies and database-driven architecture.
-
-**Topics:** Java, Spring Boot, REST APIs, authentication, PostgreSQL, Redis, MinIO, Docker Compose and clean backend structure.
+`Wazuh` · `Sysmon` · `Windows Event Logs` · `Active Directory` · `PowerShell` · `Sigma` · `KQL` · `MITRE ATT&CK` · `Incident Response` · `Threat Hunting` · `Detection Engineering`
 
 ---
 
-## 🎯 Professional Goal
+## 🔎 Windows Endpoint Compromise — DFIR & Detection Engineering
 
-My goal is to grow into a technical profile that can move comfortably between:
+### [Threat-Hunting-on-my-own-PC](https://github.com/JoseQuinteroDev/Threat-Hunting-on-my-own-PC)
 
-- **Systems Engineering**
-- **Software Development**
-- **Data Analysis & Data Engineering**
-- **Quant / AI Trading Systems**
-- **Cybersecurity / Blue Team / DevSecOps**
+Real-world Windows incident investigation involving a compromised endpoint affected by a multi-stage PowerShell loader and confirmed infostealer activity.
 
-I want to build systems that are not only functional, but also reliable, maintainable, observable and secure.
+The investigation includes:
+
+* Live endpoint triage
+* Malware analysis
+* PowerShell deobfuscation
+* Persistence analysis
+* Microsoft Defender telemetry
+* Incident timeline reconstruction
+* IOC extraction
+* MITRE ATT&CK mapping
+* Sysmon configuration
+* Sigma detections
+* KQL hunting queries
+* Incident Response documentation
+* Detection Engineering derived from the incident
+
+The project follows the complete defensive lifecycle:
+
+```text
+Investigate
+    ↓
+Understand
+    ↓
+Contain
+    ↓
+Eradicate
+    ↓
+Detect
+    ↓
+Improve
+```
+
+### Key areas demonstrated
+
+`DFIR` · `PowerShell` · `Microsoft Defender` · `Sysmon` · `Sigma` · `KQL` · `MITRE ATT&CK` · `Malware Analysis` · `Incident Response` · `IOC Analysis`
 
 ---
 
-## 🤝 Contact
+# 🖥️ Systems Engineering
 
-- GitHub: [@JoseQuinteroDev](https://github.com/JoseQuinteroDev)
-- LinkedIn: [jose-quintero-cortes](https://www.linkedin.com/in/jose-quintero-cortes/)
-- Email: [apjosequinterocortes@gmail.com](mailto:apjosequinterocortes@gmail.com)
+My cybersecurity background is supported by professional experience in **systems engineering and infrastructure**.
+
+Areas I work with include:
+
+* Windows Server
+* Active Directory
+* DNS
+* DHCP
+* Group Policy
+* Windows administration
+* Linux
+* Networking
+* Firewalls
+* VPNs
+* Backups
+* SQL Server
+* IIS
+* Shared resources and permissions
+* Infrastructure monitoring
+* Troubleshooting
+* Operational support
+
+Understanding how infrastructure behaves under normal conditions is a key part of my approach to defensive security.
 
 ---
 
-<p align="center">
-  <i>Building the bridge between systems, software, data and security.</i>
-</p>
+# 🛠️ Technical Stack
+
+## 🔐 Security & Blue Team
+
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?style=flat-square)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-Security-0078D4?style=flat-square\&logo=microsoft)
+![Sysmon](https://img.shields.io/badge/Sysmon-Telemetry-5C2D91?style=flat-square)
+![Sigma](https://img.shields.io/badge/Sigma-Detection_Rules-2E3440?style=flat-square)
+![KQL](https://img.shields.io/badge/KQL-Security_Analytics-0078D4?style=flat-square)
+![MITRE ATT\&CK](https://img.shields.io/badge/MITRE_ATT%26CK-Threat_Mapping-E34F26?style=flat-square)
+
+### Core Security Areas
+
+* SIEM
+* Incident Response
+* Threat Hunting
+* Detection Engineering
+* DFIR
+* Log Analysis
+* IOC Analysis
+* Security Monitoring
+* MITRE ATT&CK
+* Windows Security
+* Endpoint Security
+* Security Hardening
+
+---
+
+## 🖥️ Systems & Infrastructure
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square\&logo=windows\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square\&logo=powershell\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white)
+
+### Infrastructure
+
+* Active Directory
+* DNS
+* DHCP
+* Group Policy
+* TCP/IP
+* Windows Event Logs
+* Hyper-V
+* Firewalls
+* VPN
+* IIS
+* SQL Server
+* Windows Server
+* Linux
+
+---
+
+## 💻 Programming & Automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+I use programming primarily for:
+
+* Security automation
+* Infrastructure automation
+* Log processing
+* Data processing
+* Security tooling
+* Backend development
+* Internal tools
+
+---
+
+# 🔬 Detection Engineering
+
+One of my main areas of interest within defensive cybersecurity is converting attacker behavior into reliable detections.
+
+My work includes:
+
+* Writing Sigma detection rules
+* Creating KQL hunting and detection queries
+* Developing Wazuh custom rules
+* Mapping detections to MITRE ATT&CK
+* Testing detections against simulated adversary activity
+* Comparing different telemetry sources
+* Identifying coverage gaps
+* Reducing false positives
+* Creating actionable alerts
+
+Examples include detection logic for:
+
+* Kerberoasting
+* AS-REP Roasting
+* PowerShell abuse
+* Encoded / obfuscated PowerShell
+* Microsoft Defender tampering
+* LOLBins
+* Suspicious service creation
+* Malicious persistence
+* Credential-access activity
+
+---
+
+# 🔎 Threat Hunting
+
+My threat hunting methodology follows a structured workflow:
+
+```text
+Hypothesis
+    ↓
+Telemetry
+    ↓
+Investigation
+    ↓
+Findings
+    ↓
+Detection / Hardening
+```
+
+Rather than relying only on existing alerts, I investigate **raw telemetry** to identify suspicious behavior and potential detection gaps.
+
+Data sources I have worked with include:
+
+* Windows Security Event Logs
+* Sysmon
+* Microsoft Defender
+* PowerShell Operational Logs
+* Active Directory / Kerberos events
+* Wazuh alerts
+* Process execution telemetry
+* Network activity
+
+---
+
+# 🚨 Incident Response
+
+I work with the **PICERL** incident response methodology:
+
+```text
+Preparation
+    ↓
+Identification
+    ↓
+Containment
+    ↓
+Eradication
+    ↓
+Recovery
+    ↓
+Lessons Learned
+```
+
+My incident-response projects include:
+
+* Endpoint triage
+* Incident severity classification
+* Process and persistence analysis
+* IOC identification
+* Malware investigation
+* Timeline reconstruction
+* Containment
+* Eradication
+* Recovery
+* Detection improvements after the incident
+
+---
+
+# 🧠 MITRE ATT&CK
+
+I use **MITRE ATT&CK** as a framework for understanding adversary behavior and organizing defensive coverage.
+
+Examples of techniques investigated or detected include:
+
+* `T1059.001` — PowerShell
+* `T1027` — Obfuscated Files or Information
+* `T1053.005` — Scheduled Task
+* `T1547.001` — Registry Run Keys
+* `T1574.002` — DLL Side-Loading
+* `T1562.001` — Impair Defenses
+* `T1558.003` — Kerberoasting
+* `T1558.004` — AS-REP Roasting
+* `T1105` — Ingress Tool Transfer
+* `T1543.003` — Windows Service
+* `T1486` — Data Encrypted for Impact
+
+---
+
+# 🤖 Automation
+
+Automation is an important part of my engineering and security approach.
+
+I primarily use:
+
+* PowerShell
+* Python
+* Bash
+* Windows automation
+* APIs
+* Scripts for system administration
+* Security investigation tooling
+* Log processing
+* SOC workflow automation
+
+My objective is to reduce repetitive analyst work and make security processes more **consistent, reproducible and observable**.
+
+---
+
+# 💻 Additional Engineering Background
+
+Although **Cybersecurity and Systems Engineering** are my primary professional direction, I also have experience across several software and data disciplines.
+
+## Software Engineering
+
+* Java
+* Spring Boot
+* REST APIs
+* PHP
+* Python
+* SQL
+* Docker
+* Backend systems
+* Database-driven applications
+
+---
+
+## 📊 Data & Analytics
+
+* SQL Server
+* PostgreSQL
+* Python
+* Pandas
+* Data validation
+* Data reconciliation
+* Reporting
+* Power BI
+* Business metrics
+
+---
+
+## 📈 Quantitative & Algorithmic Projects
+
+I also develop personal technical projects related to:
+
+* MQL5
+* MetaTrader 5
+* Algorithmic trading
+* Backtesting
+* Risk analysis
+* Statistical analysis
+* Data processing
+* Neural networks
+* AI-assisted trading systems
+
+These projects allow me to combine **software engineering, automation, statistics and data analysis**.
+
+---
+
+# 🎯 Current Security Focus
+
+I am currently expanding my practical experience in:
+
+* SOC Operations
+* Microsoft Sentinel
+* Microsoft Defender XDR
+* KQL
+* Detection Engineering
+* Threat Hunting
+* Incident Response
+* Active Directory Security
+* Windows Internals
+* Endpoint Telemetry
+* Identity Security
+* Cloud Security
+* Security Automation
+
+---
+
+# 🧭 Professional Direction
+
+My main professional direction is:
+
+```text
+Cybersecurity
+     ↓
+Blue Team
+     ↓
+Security Operations
+     ↓
+Detection & Response
+```
+
+Supported by a strong technical foundation in:
+
+```text
+Systems Engineering
+     +
+Networking
+     +
+Automation
+     +
+Software Engineering
+     +
+Data Analysis
+```
+
+My objective is to work on environments where I can improve **security visibility, detection, investigation and response capabilities**, while continuing to develop deeper expertise in defensive cybersecurity.
+
+---
+
+# 🤝 Contact
+
+* **GitHub:** [@JoseQuinteroDev](https://github.com/JoseQuinteroDev)
+* **LinkedIn:** [jose-quintero-cortes](https://www.linkedin.com/in/jose-quintero-cortes/)
+* **Email:** [apjosequinterocortes@gmail.com](mailto:apjosequinterocortes@gmail.com)
+
+---
+
+## 🛡️ Detect. Investigate. Understand. Improve.
